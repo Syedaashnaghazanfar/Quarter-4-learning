@@ -85,8 +85,6 @@ Here are some of the **best websites** to dive deeper:
 
 - 🧠 **ChatGPT** – AI-generated content assistance  
 - 🔍 Research from OpenAI, DeepMind, HuggingFace, etc.  
-- 🖋️ Markdown for formatting  
-- 💻 GitHub for version control  
 
 ---
 
