@@ -37,4 +37,4 @@ So make sure to ⭐️ star it, follow along, and contribute your insights if yo
 _**Let’s unlock the future of AI—one repo at a time.**_ 💡
 
 > _Maintained by: **Ashna Ghazanfar**_  
-> _Quarter 4 Student – GIAIC AI Track_
+> _Quarter 3 Student – GIAIC AI Track_
