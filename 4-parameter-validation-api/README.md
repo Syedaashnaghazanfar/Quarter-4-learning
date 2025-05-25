@@ -29,8 +29,7 @@ It's a practical guide for building robust APIs with clear validation rules and 
 
 4. **Combined Parameters**  
    - Mix of Path + Query + Body  
-   - Complex validation scenarios  
-   - Error handling examples
+   - Complex validation scenarios 
 
 ---
 
@@ -49,7 +48,7 @@ It's a practical guide for building robust APIs with clear validation rules and 
 ## 🤝 Contact
 
 **Ashna Ghazanfar**  
-✉️ ashna@example.com  
+✉️ nutellacookiesss@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ashna-ghazanfar-b268522b4/)
 
 ---
