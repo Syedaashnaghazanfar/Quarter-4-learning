@@ -6,12 +6,6 @@ It's a practical guide for building robust APIs with clear validation rules and 
 
 ---
 
-## 📝 Related Blog Post  
-Check out my detailed blog post on API Parameters in FastAPI:  
-[API Parameters in FastAPI: The Ultimate Guide](https://your-blog-link-here)  *(Replace with your actual URL)*
-
----
-
 ## 🔍 Features Implemented  
 
 1. **Path Parameters**  
