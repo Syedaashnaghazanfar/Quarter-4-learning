@@ -1,0 +1,16 @@
+[project]
+
+name = "parameter-validation-api"
+version = "0.1.0"
+description = "FastAPI project demonstrating parameter validation"
+authors = ["Ashna Ghazanfar <nutellacookiesss@gmail.com>"]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic"
+]
+
+[tool.uv]
+python = "3.13"  
