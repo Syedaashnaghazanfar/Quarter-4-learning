@@ -35,3 +35,17 @@ quaid_agent/
 ├── agents.py               # Main Python file (core logic)
 ├── requirements.txt        # Python dependencies
 └── README.md               # This awesome guide you're reading 🌈
+```
+---
+## 🧪 How to Use
+
+✅ *Make sure you're in a **virtual environment** before running!*
+
+---
+
+### 📥 Clone this repo:
+
+```bash
+git clone https://github.com/your-username/quaid-agent.git
+cd quaid-agent
+
