@@ -46,6 +46,6 @@ quaid_agent/
 ### 📥 Clone this repo:
 
 ```bash
-git clone https://github.com/your-username/quaid-agent.git
-cd quaid-agent
+git clone https://github.com/syedaashnaghazanfar/quaid_agent.git
+cd quaid_agent
 
