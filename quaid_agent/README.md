@@ -55,6 +55,29 @@ cd quaid_agent
 ```bash
 GEMINI_API_KEY=your_api_key_here
 ```
+### Create & activate a virtual environment with uv:
+```bash
+uv venv
+source .venv/bin/activate  # or .venv\Scripts\activate on Windows
+```
+### Install dependencies directly from pyproject.toml:
+```bash
+uv pip install -e .
+```
+### Run the Agent:
+```bash
+uv run agent.py
+```
+
+##✅ You’ll get a response in the terminal with information about Quaid-e-Azam.
+
+##  *❤️ Acknowledgements*
+🙌 Inspired by OpenAI’s experimental Agents SDK
+
+⚙️ Powered by Google’s Gemini API
+
+💚 Built with love, hustle, and a dream by *Ashna Ghazanfar* please convert this into readme file
+
 
 
 
