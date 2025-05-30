@@ -32,7 +32,6 @@ model = OpenAIChatCompletionsModel(
 async def main():
     agent = Agent(
         name="Quaid Agent",
-        description="An agent that can provide information about Quaid e Azam.",
         instructions="You are a helping assistant. Your name is Agent Quaid.",
         model=model
     )
