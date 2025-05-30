@@ -1,4 +1,4 @@
-# 🧠 Quarter 4 – GIAIC AI & Generative Technologies Learning
+# 🧠 Quarter 4 – Agentic AI & Generative Technologies Learning
 
 Welcome to the **Quarter 4 Learning Repository** for the **Governor’s Initiative for AI & Computing (GIAIC)**! 🚀  
 This space is dedicated to exploring, sharing, and building knowledge on **AI technologies** with a focus on **Generative AI**.
