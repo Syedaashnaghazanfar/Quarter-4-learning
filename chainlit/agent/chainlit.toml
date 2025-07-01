@@ -1,0 +1,6 @@
+[UI]
+name = "🩺 Health Agent"
+description = "Friendly health assistant"
+avatar_url = "/public/doctor.png"
+
+# Only use toml for UI settings, CSS, and config—not colors!
