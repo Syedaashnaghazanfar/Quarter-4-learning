@@ -13,8 +13,8 @@ A smart, evolving health and wellness assistant built using **Python**, **Stream
 > ⚠️ **Note**: This project is under active development. Expect frequent updates and new features like:
 > - Personalized wellness plans
 > - Habit tracking
-> - Integration with wearables (e.g. Fitbit, Apple Health)
 > - Visual dashboards
+> - Open SDK integration
 
 ---
 
