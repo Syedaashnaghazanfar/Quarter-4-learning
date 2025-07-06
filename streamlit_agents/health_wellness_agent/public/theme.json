@@ -1,0 +1,23 @@
+{
+  "custom_fonts": [],
+  "variables": {
+    "light": {
+      "--font-sans": "'Inter', sans-serif",
+      "--background": "270 100% 95%",
+      "--foreground": "270 33% 21%",
+      "--primary": "270 100% 85%",
+      "--primary-foreground": "270 33% 21%",
+      "--input": "270 33% 21%",
+      "--input-foreground": "270 100% 95%"
+    },
+    "dark": {
+      "--font-sans": "'Inter', sans-serif",
+      "--background": "270 33% 21%",
+      "--foreground": "0 0% 100%",
+      "--primary": "270 100% 85%",
+      "--primary-foreground": "270 33% 21%",
+      "--input": "270 100% 85%",
+      "--input-foreground": "270 33% 21%"
+    }
+  }
+}

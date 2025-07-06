@@ -1,0 +1,7 @@
+dotenv>=0.9.9
+fpdf>=1.7.2
+openai==1.92.3
+openai-agents==0.0.19
+python-dotenv==1.1.1
+reportlab>=4.4.2
+streamlit>=1.46.1
