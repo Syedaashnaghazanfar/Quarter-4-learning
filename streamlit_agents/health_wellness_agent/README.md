@@ -26,7 +26,7 @@ A smart, evolving health and wellness assistant built using **Python**, **Stream
 | Streamlit  | Frontend web interface               |
 | Gemini API | NLP and intelligent response engine  |
 | dotenv     | Env variable management              |
-| fpdf / reportlab | PDF export (coming soon)       |
+| fpdf / reportlab | PDF export       |
 | Custom tools & agents | Specialized handling      |
 
 ---
