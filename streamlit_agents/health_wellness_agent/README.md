@@ -14,7 +14,7 @@ A smart, evolving health and wellness assistant built using **Python**, **Stream
 > - Personalized wellness plans
 > - Habit tracking
 > - Visual dashboards
-> - Open SDK integration
+> - OpenAI agents SDK integration
 
 ---
 
