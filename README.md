@@ -31,6 +31,7 @@ So make sure to ⭐️ star it, follow along, and contribute your insights if yo
 
 - [🧠 Generative AI Research](https://openai.com/research)
 - [🧰 AI Tools We Explore](https://huggingface.co)
+- [🧰 OpenSDK official documentation](https://openai.github.io/openai-agents-python/)
 
 ---
 
