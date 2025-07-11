@@ -1,5 +1,9 @@
 # 🧠 Health & Wellness AI Agent
 
+
+**🔗 [Live App on Streamlit](https://ashnaghazanfar-healthwellness-agent.streamlit.app/)**
+
+
 A smart, evolving health and wellness assistant built using **Python**, **Streamlit**, and **Gemini API**. This agent is designed to provide users with intelligent, contextual responses related to their health in **JSON format** — ideal for both interaction and tracking over time.
 
 ## 🚀 Features
