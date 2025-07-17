@@ -24,7 +24,7 @@ agent = Agent[UserContext](
 
 async def main():
     user_context = UserContext(id="12345", name="Alice")
-    result = await Runner.run(agent,"what is my and id? also tell me about life!",context=user_context)
+    result = await Runner.run(agent,"what is my name and id? also tell me about life!",context=user_context)
     print(result.final_output)
 
 asyncio.run(main())
