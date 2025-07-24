@@ -1,0 +1,5 @@
+# requirements.txt
+
+openai-agents>=0.1.0
+streamlit>=1.47.0
+python-dotenv>=1.0.1  
