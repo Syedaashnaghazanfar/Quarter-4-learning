@@ -44,7 +44,7 @@ The **Health & Wellness Agent** is an interactive AI assistant designed to suppo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Syedaashnaghazanfar/Quarter-4-learning/main/Sir-Aneeq-tasks/task3/health_agent_SDK
+git clone https://github.com/Syedaashnaghazanfar/Quarter-4-learning/main/Sir-Aneeq-tasks/task3/health_agent_SDK.git
 cd health_agent_SDK
 ```
 
