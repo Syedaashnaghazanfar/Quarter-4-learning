@@ -93,7 +93,6 @@ st.markdown("Manage your files using natural language. AI will handle the comman
 # 🔹 Let user optionally specify a custom path
 directory_input = st.text_input("🔍 Enter directory path (optional):", value=str(DESKTOP_PATH))
 
-# 📝 Helpful Note (Dark/Light Theme Compatible)
 st.info(
     f"""
     **📝 Note:**  
