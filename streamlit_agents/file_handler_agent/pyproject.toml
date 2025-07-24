@@ -1,0 +1,15 @@
+[project]
+name = "file-handler-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dotenv>=0.9.9",
+    "numpy>=2.2.6",
+    "openai-agents[voice]>=0.1.0",
+    "sounddevice>=0.5.2",
+    "soundfile>=0.13.1",
+    "streamlit>=1.47.0",
+    "streamlit-mic-recorder>=0.0.8",
+]
