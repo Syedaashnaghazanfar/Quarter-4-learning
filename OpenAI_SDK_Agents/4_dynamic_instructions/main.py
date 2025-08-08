@@ -32,4 +32,4 @@ asyncio.run(main())
 
 #output
 #Your name is Alice, and your ID is 12345. As for life, it's a fascinating journey filled with experiences, challenges, and growth. It's about finding purpose, forging connections, and exploring the world around us. Embracing change and learning from each moment can make the journey meaningful and rewarding. How are you finding your journey
-# This is just a simple example using dynamic instructions we will further learn to  implement these in various ways
+# This is just a simple example using dynamic instructions we will further learn to  implement these in various ways!
