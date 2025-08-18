@@ -1,0 +1,9 @@
+[project]
+name = "11-advanced-handoffs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "openai-agents>=0.2.7",
+]
